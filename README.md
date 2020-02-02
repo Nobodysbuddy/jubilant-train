@@ -1,7 +1,7 @@
 # Html and css to a website.
 
 
-I planned to creat a html filled website (well its a webpage but who cares?) which should be responsive and animated in a perfect style. I looked at it with the basic html and it looked good. and after all the html, I added css to the mixture and that was perfect. It worked really well and hope you all like the website.
+I planned to create a html filled website (well its a webpage but who cares?) which should be responsive and animated in a perfect style. I looked at it with the basic html and it looked good. and after all the html, I added css to the mixture and that was perfect. It worked really well and hope you all like the website.
 
 I put all my effort and hardwork in it. I was first really sad to see that all of my css was not working out well. That made me worried and sad, but then, I got up and tried again. It worked well this time and I could finally celebrate my website's (I won't improve the web-"site" and the web-"page") creation.
 
